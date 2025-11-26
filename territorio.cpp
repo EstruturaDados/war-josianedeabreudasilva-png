@@ -3,6 +3,9 @@
 #include <string.h>
 #include <time.h>
 
+int main(); {
+
+
 // Definição da struct Territorio
 typedef struct {
     char nome[30];
